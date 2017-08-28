@@ -28,5 +28,5 @@ server.listen(port);
 
 function ping() {
   this.res.writeHead(200);
-  this.res.end("Hey, I'm the Donald Trump Insult generator.");
+  this.res.end("Hey there im Donnie Trump");
 }
